@@ -38,7 +38,7 @@ Switch to drawing mode from design mode
 ## OUTPUT
 
 
-![Screenshot 2023-12-13 211443](https://github.com/ROLEX2616/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/149988469/4abdaa68-082b-4428-88a7-7ab0393231e3)
+![Uploading Screenshot 2023-12-15 221520.png…]()
 
 
 
